@@ -1,4 +1,5 @@
 # Contacts Application
+A Simple MEAN Stack Application
 
 git clone https://github.com/krishnasai453/ContactsApplication.git
 
@@ -13,4 +14,4 @@ nodemon auto reloads server in cased of changes
 Now you can visit [`localhost:3000`](http://localhost:3000) from your browser.
 
 ## Learn more
- * contact krishnasai453@gmail.com
+* contact krishnasai453@gmail.com
