@@ -1,0 +1,16 @@
+# Contacts Application
+
+git clone https://github.com/krishnasai453/ContactsApplication.git
+
+To start your Contacts application:
+* Install Node.js dependencies with `npm install`
+ Start Phoenix endpoint with `nodemon`
+ or 
+`node server.js`
+
+nodemon auto reloads server in cased of changes
+
+Now you can visit [`localhost:3000`](http://localhost:3000) from your browser.
+
+## Learn more
+ * contact krishnasai453@gmail.com
