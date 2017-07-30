@@ -5,7 +5,7 @@ git clone https://github.com/krishnasai453/ContactsApplication.git
 
 To start your Contacts application:
 * Install Node.js dependencies with `npm install`
- Start Phoenix endpoint with `nodemon`
+ Start endpoint with `nodemon`
  or 
 `node server.js`
 
